@@ -1,8 +1,5 @@
 {
   "name": "@jlehtonen/color",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/jlehtonen"
-  },
   "type": "module",
   "version": "0.0.1",
   "description": "A TypeScript package for handling colors.",
