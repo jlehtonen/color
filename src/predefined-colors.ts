@@ -1,0 +1,26 @@
+import { Color } from "./color.js";
+
+export const colors = {
+  slate: Color.fromHex("#475569"),
+  gray: Color.fromHex("#4b5563"),
+  zinc: Color.fromHex("#52525b"),
+  neutral: Color.fromHex("#525252"),
+  stone: Color.fromHex("#57534e"),
+  red: Color.fromHex("#dc2626"),
+  orange: Color.fromHex("#ea580c"),
+  amber: Color.fromHex("#d97706"),
+  yellow: Color.fromHex("#ca8a04"),
+  lime: Color.fromHex("#65a30d"),
+  green: Color.fromHex("#16a34a"),
+  emerald: Color.fromHex("#059669"),
+  teal: Color.fromHex("#0d9488"),
+  cyan: Color.fromHex("#0891b2"),
+  sky: Color.fromHex("#0284c7"),
+  blue: Color.fromHex("#2563eb"),
+  indigo: Color.fromHex("#4f46e5"),
+  violet: Color.fromHex("#7c3aed"),
+  purple: Color.fromHex("#9333ea"),
+  fuchsia: Color.fromHex("#c026d3"),
+  pink: Color.fromHex("#db2777"),
+  rose: Color.fromHex("#e11d48"),
+};
